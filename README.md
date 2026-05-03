@@ -142,4 +142,5 @@ npm test
 2. 確認網路連線正常
 3. 檢查 `homework.js` 的函式是否有正確回傳值
 4. 確認 async/await 語法正確使用
-#js-camp-week6
+
+### js-camp-week6
